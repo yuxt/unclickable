@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="620px" viewBox="0 0 500 620" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-100, -80)" fill="#1E1E1E">
+            <g id="Group" transform="translate(100, 80)">
+                <rect id="Rectangle" x="0" y="0" width="61.2449799" height="61.3961039"></rect>
+                <rect id="Rectangle" x="125.502008" y="0" width="61.2449799" height="61.3961039"></rect>
+                <rect id="Rectangle" x="313.253012" y="0" width="61.2449799" height="61.3961039"></rect>
+                <rect id="Rectangle" x="438.75502" y="0" width="61.2449799" height="61.3961039"></rect>
+                <rect id="Rectangle" x="63.253012" y="497.207792" width="61.2449799" height="61.3961039"></rect>
+                <rect id="Rectangle" x="186.746988" y="435.811688" width="127.51004" height="61.3961039"></rect>
+                <rect id="Rectangle" x="376.506024" y="497.207792" width="61.2449799" height="61.3961039"></rect>
+                <rect id="Rectangle" x="125.502008" y="558.603896" width="248.995984" height="61.3961039"></rect>
+                <rect id="Rectangle" x="0" y="310" width="61.2449799" height="187.207792"></rect>
+                <rect id="Rectangle" x="125.502008" y="310" width="61.2449799" height="125.811688"></rect>
+                <rect id="Rectangle" x="313.253012" y="310" width="61.2449799" height="125.811688"></rect>
+                <rect id="Rectangle" x="438.75502" y="310" width="61.2449799" height="187.207792"></rect>
+                <rect id="Rectangle" x="0" y="122.792208" width="186.746988" height="187.207792"></rect>
+                <rect id="Rectangle" x="313.253012" y="122.792208" width="186.746988" height="187.207792"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
