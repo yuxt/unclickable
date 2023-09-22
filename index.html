@@ -47,7 +47,7 @@
   </body>
   <script type="text/javascript" src="js/bundle.js"></script>
   <script type="module">
-    let imgSize = [1600, 1200];
+    let imgSize = [1000, 1600];
 
     const vertex = `
 					attribute vec2 uv;
@@ -138,9 +138,9 @@
       img.crossOrigin = "Anonymous";
 
       if (isTouchCapable) {
-        img.src = "img/Alienation_mobile.svg";
+        img.src = "img/Alienation.svg";
 
-        imgSize = [800, 1000];
+        imgSize = [1200, 800];
       } else {
         img.src = "img/Alienation.svg";
       }
