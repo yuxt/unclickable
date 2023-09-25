@@ -75,7 +75,7 @@
 
               vec2 uv = .5 * gl_FragCoord.xy / res.xy ;
 
-              vec2 myUV = (uv - vec2(0.5))*res.zw + vec2(0.5);
+              vec2 myUV = (uv - vec2(0.2))*res.zw + vec2(0.2);
               myUV -= flow.xy * (0.15 * 0.5);
               vec3 tex = texture2D(tWater, myUV).rgb;
 
